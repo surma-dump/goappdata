@@ -3,7 +3,7 @@ package goappdata
 import "os"
 
 const (
-	format = "%s/Library/ApplicationSupport/%s"
+	format = "%s/Library/Application Support/%s"
 )
 
 var (
